@@ -1,6 +1,6 @@
 package eu.sbradl.liftedcontent.microformats
 
-import de.sbradl.liftedcontent.util.Module
+import eu.sbradl.liftedcontent.util.Module
 
 object Microformats extends Module {
 
