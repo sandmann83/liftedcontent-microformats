@@ -1,4 +1,4 @@
-package de.sbradl.liftedcontent.microformats.snippet
+package eu.sbradl.liftedcontent.microformats.snippet
 
 import net.liftweb.util.Helpers._
 import scala.xml.NodeSeq

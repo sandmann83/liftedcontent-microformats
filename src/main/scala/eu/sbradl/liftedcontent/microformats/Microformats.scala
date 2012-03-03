@@ -1,4 +1,4 @@
-package de.sbradl.liftedcontent.microformats
+package eu.sbradl.liftedcontent.microformats
 
 import de.sbradl.liftedcontent.util.Module
 
